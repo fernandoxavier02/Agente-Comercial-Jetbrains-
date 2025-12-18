@@ -1,0 +1,1420 @@
+
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     17:44                .idea
+d-----        18/12/2025     16:44                .venv
+d-----        18/12/2025     17:11                app
+d-----        18/12/2025     16:44                data
+d-----        18/12/2025     16:44                tests
+-a----        18/12/2025     17:25            242 .env
+-a----        18/12/2025     17:09          16613 .output.txt
+-a----        18/12/2025     17:28           4863 benchmark_llms.py
+-a----        18/12/2025     17:07            271 init_db.py
+-a----        18/12/2025     16:44           2027 README.md
+-a----        18/12/2025     17:14           1867 README_DEV.md
+-a----        18/12/2025     16:40            143 requirements.txt
+-a----        18/12/2025     17:12          36864 sql_app.db
+-a----        18/12/2025     17:11           1099 test_api.py
+-a----        18/12/2025     17:10           1441 test_db.py
+-a----        18/12/2025     17:12           1221 test_engine.py
+-a----        18/12/2025     17:12           1030 test_full_pipeline.py
+-a----        18/12/2025     17:14           1124 test_providers.py
+-a----        18/12/2025     17:25            811 test_simple_engine.py
+-a----        18/12/2025     17:43            937 test_subliminal.py
+-a----        18/12/2025     17:34            895 test_vision.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\.idea
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                inspectionProfiles
+-a----        18/12/2025     16:31            238 .gitignore
+-a----        18/12/2025     16:31              7 .name
+-a----        18/12/2025     16:40            326 misc.xml
+-a----        18/12/2025     16:31            295 modules.xml
+-a----        18/12/2025     16:32            578 PyCharmMiscProject.iml
+-a----        18/12/2025     17:44           3234 workspace.xml
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.idea\inspectionProfiles
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:31            174 profiles_settings.xml
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\.venv
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                Lib
+d-----        18/12/2025     16:44                Scripts
+-a----        18/12/2025     16:31             42 .gitignore
+-a----        18/12/2025     16:31            197 CACHEDIR.TAG
+-a----        18/12/2025     16:32            414 pyvenv.cfg
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\.venv\Lib
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                site-packages
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                pip
+d-----        18/12/2025     16:44                pip-25.1.1.dist-info
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32              0 pip-25.1.1.virtualenv
+-a----        18/12/2025     16:31             18 _virtualenv.pth
+-a----        18/12/2025     16:31           4546 _virtualenv.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                _internal
+d-----        18/12/2025     16:44                _vendor
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31            286 py.typed
+-a----        18/12/2025     16:31            357 __init__.py
+-a----        18/12/2025     16:31            854 __main__.py
+-a----        18/12/2025     16:31           1450 __pip-runner__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                cli
+d-----        18/12/2025     16:44                commands
+d-----        18/12/2025     16:44                distributions
+d-----        18/12/2025     16:44                index
+d-----        18/12/2025     16:44                locations
+d-----        18/12/2025     16:44                metadata
+d-----        18/12/2025     16:44                models
+d-----        18/12/2025     16:44                network
+d-----        18/12/2025     16:44                operations
+d-----        18/12/2025     16:44                req
+d-----        18/12/2025     16:44                resolution
+d-----        18/12/2025     16:44                utils
+d-----        18/12/2025     16:44                vcs
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31          10924 build_env.py
+-a----        18/12/2025     16:31          10368 cache.py
+-a----        18/12/2025     16:31          14005 configuration.py
+-a----        18/12/2025     16:31          28464 exceptions.py
+-a----        18/12/2025     16:31            340 main.py
+-a----        18/12/2025     16:31           7286 pyproject.py
+-a----        18/12/2025     16:31           8318 self_outdated_check.py
+-a----        18/12/2025     16:31          11212 wheel_builder.py
+-a----        18/12/2025     16:31            513 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\cli
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31           6864 autocompletion.py
+-a----        18/12/2025     16:31           8351 base_command.py
+-a----        18/12/2025     16:31          31909 cmdoptions.py
+-a----        18/12/2025     16:31            774 command_context.py
+-a----        18/12/2025     16:31           5720 index_command.py
+-a----        18/12/2025     16:31           2816 main.py
+-a----        18/12/2025     16:31           4337 main_parser.py
+-a----        18/12/2025     16:31          10825 parser.py
+-a----        18/12/2025     16:31           4435 progress_bars.py
+-a----        18/12/2025     16:31          12934 req_command.py
+-a----        18/12/2025     16:31           5118 spinners.py
+-a----        18/12/2025     16:31            116 status_codes.py
+-a----        18/12/2025     16:31            131 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\cli\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           9920 autocompletion.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:34          12347 base_command.cpython-314.pyc
+-a----        18/12/2025     16:34          41255 cmdoptions.cpython-314.pyc
+-a----        18/12/2025     16:34           2440 command_context.cpython-314.p
+                                                  yc
+-a----        18/12/2025     16:34           8769 index_command.cpython-314.pyc
+-a----        18/12/2025     16:34           2506 main.cpython-314.pyc
+-a----        18/12/2025     16:34           5571 main_parser.cpython-314.pyc
+-a----        18/12/2025     16:34          18341 parser.cpython-314.pyc
+-a----        18/12/2025     16:35           7230 progress_bars.cpython-314.pyc
+-a----        18/12/2025     16:34          10708 spinners.cpython-314.pyc
+-a----        18/12/2025     16:34            347 status_codes.cpython-314.pyc
+-a----        18/12/2025     16:34            272 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\commands
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31           8107 cache.py
+-a----        18/12/2025     16:31           2268 check.py
+-a----        18/12/2025     16:31           4554 completion.py
+-a----        18/12/2025     16:31           9766 configuration.py
+-a----        18/12/2025     16:31           6797 debug.py
+-a----        18/12/2025     16:31           5273 download.py
+-a----        18/12/2025     16:31           3144 freeze.py
+-a----        18/12/2025     16:31           1703 hash.py
+-a----        18/12/2025     16:31           1132 help.py
+-a----        18/12/2025     16:31           5068 index.py
+-a----        18/12/2025     16:31           3189 inspect.py
+-a----        18/12/2025     16:31          29757 install.py
+-a----        18/12/2025     16:31          13274 list.py
+-a----        18/12/2025     16:31           5941 lock.py
+-a----        18/12/2025     16:31           5784 search.py
+-a----        18/12/2025     16:31           8028 show.py
+-a----        18/12/2025     16:31           3892 uninstall.py
+-a----        18/12/2025     16:31           6346 wheel.py
+-a----        18/12/2025     16:31           4009 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\commands\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          19830 list.cpython-314.pyc
+-a----        18/12/2025     16:34           4713 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\distributions
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:31           1783 base.py
+-a----        18/12/2025     16:31            842 installed.py
+-a----        18/12/2025     16:31           6751 sdist.py
+-a----        18/12/2025     16:31           1317 wheel.py
+-a----        18/12/2025     16:31            858 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\index
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31          16265 collector.py
+-a----        18/12/2025     16:31          38446 package_finder.py
+-a----        18/12/2025     16:31           8632 sources.py
+-a----        18/12/2025     16:31             29 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\index\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35          26927 collector.cpython-314.pyc
+-a----        18/12/2025     16:35          48583 package_finder.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:35          16842 sources.cpython-314.pyc
+-a----        18/12/2025     16:35            226 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\locations
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31           2556 base.py
+-a----        18/12/2025     16:31           6013 _distutils.py
+-a----        18/12/2025     16:31           7724 _sysconfig.py
+-a----        18/12/2025     16:31          14309 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\locations\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           4611 base.cpython-314.pyc
+-a----        18/12/2025     16:34           9375 _sysconfig.cpython-314.pyc
+-a----        18/12/2025     16:34          19768 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\metadata
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                importlib
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31          25467 base.py
+-a----        18/12/2025     16:31          10542 pkg_resources.py
+-a----        18/12/2025     16:31           2707 _json.py
+-a----        18/12/2025     16:31           5723 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\metadata\importlib
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31           2796 _compat.py
+-a----        18/12/2025     16:31           8279 _dists.py
+-a----        18/12/2025     16:31           5297 _envs.py
+-a----        18/12/2025     16:31            135 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\.venv\Lib\site
+    -packages\pip\_internal\metadata\importlib\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           5752 _compat.cpython-314.pyc
+-a----        18/12/2025     16:34          16721 _dists.cpython-314.pyc
+-a----        18/12/2025     16:34           9876 _envs.cpython-314.pyc
+-a----        18/12/2025     16:34            355 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\metadata\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          43912 base.cpython-314.pyc
+-a----        18/12/2025     16:34           3504 _json.cpython-314.pyc
+-a----        18/12/2025     16:34           8087 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\models
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31            753 candidate.py
+-a----        18/12/2025     16:31           6576 direct_url.py
+-a----        18/12/2025     16:31           2486 format_control.py
+-a----        18/12/2025     16:31           1030 index.py
+-a----        18/12/2025     16:31           2818 installation_report.py
+-a----        18/12/2025     16:31          21511 link.py
+-a----        18/12/2025     16:31           6196 pylock.py
+-a----        18/12/2025     16:31            575 scheme.py
+-a----        18/12/2025     16:31           4531 search_scope.py
+-a----        18/12/2025     16:31           2015 selection_prefs.py
+-a----        18/12/2025     16:31           4271 target_python.py
+-a----        18/12/2025     16:31           5506 wheel.py
+-a----        18/12/2025     16:31             62 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\models\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35           2228 candidate.cpython-314.pyc
+-a----        18/12/2025     16:34          15159 direct_url.cpython-314.pyc
+-a----        18/12/2025     16:34           5426 format_control.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:34           2138 index.cpython-314.pyc
+-a----        18/12/2025     16:35          35075 link.cpython-314.pyc
+-a----        18/12/2025     16:34           1313 scheme.cpython-314.pyc
+-a----        18/12/2025     16:35           6073 search_scope.cpython-314.pyc
+-a----        18/12/2025     16:34           2059 selection_prefs.cpython-314.p
+                                                  yc
+-a----        18/12/2025     16:34           5583 target_python.cpython-314.pyc
+-a----        18/12/2025     16:35           8520 wheel.cpython-314.pyc
+-a----        18/12/2025     16:34            260 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\network
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31          20809 auth.py
+-a----        18/12/2025     16:31           4613 cache.py
+-a----        18/12/2025     16:31          11078 download.py
+-a----        18/12/2025     16:31           7622 lazy_wheel.py
+-a----        18/12/2025     16:31          18771 session.py
+-a----        18/12/2025     16:31           4088 utils.py
+-a----        18/12/2025     16:31           1837 xmlrpc.py
+-a----        18/12/2025     16:31             49 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\network\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35          27721 auth.cpython-314.pyc
+-a----        18/12/2025     16:35           9067 cache.cpython-314.pyc
+-a----        18/12/2025     16:34          22705 session.cpython-314.pyc
+-a----        18/12/2025     16:35           2871 utils.cpython-314.pyc
+-a----        18/12/2025     16:34            248 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\operations
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                build
+d-----        18/12/2025     16:44                install
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31           5911 check.py
+-a----        18/12/2025     16:31           9843 freeze.py
+-a----        18/12/2025     16:31          28363 prepare.py
+-a----        18/12/2025     16:31              0 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\operations\build
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31           4774 build_tracker.py
+-a----        18/12/2025     16:31           1421 metadata.py
+-a----        18/12/2025     16:31           1509 metadata_editable.py
+-a----        18/12/2025     16:31           2189 metadata_legacy.py
+-a----        18/12/2025     16:31           1075 wheel.py
+-a----        18/12/2025     16:31           1417 wheel_editable.py
+-a----        18/12/2025     16:31           3620 wheel_legacy.py
+-a----        18/12/2025     16:31              0 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\operations\build\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35           2078 metadata.cpython-314.pyc
+-a----        18/12/2025     16:35           2132 metadata_editable.cpython-314
+                                                  .pyc
+-a----        18/12/2025     16:35           3380 metadata_legacy.cpython-314.p
+                                                  yc
+-a----        18/12/2025     16:35            200 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\operations\install
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31           1282 editable_legacy.py
+-a----        18/12/2025     16:31          27553 wheel.py
+-a----        18/12/2025     16:31             50 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\.venv\Lib\site
+    -packages\pip\_internal\operations\install\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35           2111 editable_legacy.cpython-314.p
+                                                  yc
+-a----        18/12/2025     16:35          41829 wheel.cpython-314.pyc
+-a----        18/12/2025     16:35            260 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\operations\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35            194 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\req
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31          18430 constructors.py
+-a----        18/12/2025     16:31           2677 req_dependency_group.py
+-a----        18/12/2025     16:31          20234 req_file.py
+-a----        18/12/2025     16:31          35788 req_install.py
+-a----        18/12/2025     16:31           2858 req_set.py
+-a----        18/12/2025     16:31          24075 req_uninstall.py
+-a----        18/12/2025     16:31           3096 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\req\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35          29823 req_file.cpython-314.pyc
+-a----        18/12/2025     16:35          46602 req_install.cpython-314.pyc
+-a----        18/12/2025     16:35           7059 req_set.cpython-314.pyc
+-a----        18/12/2025     16:35          38549 req_uninstall.cpython-314.pyc
+-a----        18/12/2025     16:35           5012 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\resolution
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                legacy
+d-----        18/12/2025     16:44                resolvelib
+-a----        18/12/2025     16:31            583 base.py
+-a----        18/12/2025     16:31              0 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\resolution\legacy
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:31          24068 resolver.py
+-a----        18/12/2025     16:31              0 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:31           5023 base.py
+-a----        18/12/2025     16:31          20241 candidates.py
+-a----        18/12/2025     16:31          32668 factory.py
+-a----        18/12/2025     16:31           6000 found_candidates.py
+-a----        18/12/2025     16:31          11190 provider.py
+-a----        18/12/2025     16:31           3260 reporter.py
+-a----        18/12/2025     16:31           8065 requirements.py
+-a----        18/12/2025     16:31          12785 resolver.py
+-a----        18/12/2025     16:31              0 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\utils
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:31           1705 appdirs.py
+-a----        18/12/2025     16:31           2399 compat.py
+-a----        18/12/2025     16:31           6662 compatibility_tags.py
+-a----        18/12/2025     16:31            241 datetime.py
+-a----        18/12/2025     16:31           3707 deprecation.py
+-a----        18/12/2025     16:31           3196 direct_url_helpers.py
+-a----        18/12/2025     16:31           2463 egg_link.py
+-a----        18/12/2025     16:31           3325 entrypoints.py
+-a----        18/12/2025     16:32           4950 filesystem.py
+-a----        18/12/2025     16:32            715 filetypes.py
+-a----        18/12/2025     16:32           3734 glibc.py
+-a----        18/12/2025     16:32           4972 hashes.py
+-a----        18/12/2025     16:32          12076 logging.py
+-a----        18/12/2025     16:32          23450 misc.py
+-a----        18/12/2025     16:32           1603 packaging.py
+-a----        18/12/2025     16:32           1392 retry.py
+-a----        18/12/2025     16:32           4482 setuptools_build.py
+-a----        18/12/2025     16:32           8988 subprocess.py
+-a----        18/12/2025     16:32           9310 temp_dir.py
+-a----        18/12/2025     16:32          11926 unpacking.py
+-a----        18/12/2025     16:32           1599 urls.py
+-a----        18/12/2025     16:32           3456 virtualenv.py
+-a----        18/12/2025     16:32           4493 wheel.py
+-a----        18/12/2025     16:32           3350 _jaraco_text.py
+-a----        18/12/2025     16:32           1015 _log.py
+-a----        18/12/2025     16:32              0 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\utils\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           3125 appdirs.cpython-314.pyc
+-a----        18/12/2025     16:34           3411 compat.cpython-314.pyc
+-a----        18/12/2025     16:34           8778 compatibility_tags.cpython-31
+                                                  4.pyc
+-a----        18/12/2025     16:34           5138 deprecation.cpython-314.pyc
+-a----        18/12/2025     16:34           3700 egg_link.cpython-314.pyc
+-a----        18/12/2025     16:34           8790 filesystem.cpython-314.pyc
+-a----        18/12/2025     16:34           1772 filetypes.cpython-314.pyc
+-a----        18/12/2025     16:35           3069 glibc.cpython-314.pyc
+-a----        18/12/2025     16:34          10023 hashes.cpython-314.pyc
+-a----        18/12/2025     16:34          17900 logging.cpython-314.pyc
+-a----        18/12/2025     16:34          43910 misc.cpython-314.pyc
+-a----        18/12/2025     16:34           2212 packaging.cpython-314.pyc
+-a----        18/12/2025     16:34           2661 retry.cpython-314.pyc
+-a----        18/12/2025     16:35           5879 setuptools_build.cpython-314.
+                                                  pyc
+-a----        18/12/2025     16:34          10365 subprocess.cpython-314.pyc
+-a----        18/12/2025     16:34          15116 temp_dir.cpython-314.pyc
+-a----        18/12/2025     16:35          15860 unpacking.cpython-314.pyc
+-a----        18/12/2025     16:34           2459 urls.cpython-314.pyc
+-a----        18/12/2025     16:34           5450 virtualenv.cpython-314.pyc
+-a----        18/12/2025     16:34           6941 wheel.cpython-314.pyc
+-a----        18/12/2025     16:34           2382 _log.cpython-314.pyc
+-a----        18/12/2025     16:34            189 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\vcs
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32           3528 bazaar.py
+-a----        18/12/2025     16:32          18591 git.py
+-a----        18/12/2025     16:32           5249 mercurial.py
+-a----        18/12/2025     16:32          11735 subversion.py
+-a----        18/12/2025     16:32          22440 versioncontrol.py
+-a----        18/12/2025     16:32            596 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\vcs\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35           6521 bazaar.cpython-314.pyc
+-a----        18/12/2025     16:35          23128 git.cpython-314.pyc
+-a----        18/12/2025     16:35           9271 mercurial.cpython-314.pyc
+-a----        18/12/2025     16:35          15444 subversion.cpython-314.pyc
+-a----        18/12/2025     16:35          36076 versioncontrol.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:35            528 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_internal\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          17936 build_env.cpython-314.pyc
+-a----        18/12/2025     16:34          22056 configuration.cpython-314.pyc
+-a----        18/12/2025     16:34          48281 exceptions.cpython-314.pyc
+-a----        18/12/2025     16:35           5936 pyproject.cpython-314.pyc
+-a----        18/12/2025     16:34            959 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                cachecontrol
+d-----        18/12/2025     16:44                certifi
+d-----        18/12/2025     16:44                dependency_groups
+d-----        18/12/2025     16:44                distlib
+d-----        18/12/2025     16:44                distro
+d-----        18/12/2025     16:44                idna
+d-----        18/12/2025     16:44                msgpack
+d-----        18/12/2025     16:44                packaging
+d-----        18/12/2025     16:44                pkg_resources
+d-----        18/12/2025     16:44                platformdirs
+d-----        18/12/2025     16:44                pygments
+d-----        18/12/2025     16:44                pyproject_hooks
+d-----        18/12/2025     16:44                requests
+d-----        18/12/2025     16:44                resolvelib
+d-----        18/12/2025     16:44                rich
+d-----        18/12/2025     16:44                tomli
+d-----        18/12/2025     16:44                tomli_w
+d-----        18/12/2025     16:44                truststore
+d-----        18/12/2025     16:44                urllib3
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32         172702 typing_extensions.py
+-a----        18/12/2025     16:32            373 vendor.txt
+-a----        18/12/2025     16:32           4907 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\cachecontrol
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                caches
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32           6599 adapter.py
+-a----        18/12/2025     16:32           1953 cache.py
+-a----        18/12/2025     16:32          19101 controller.py
+-a----        18/12/2025     16:32           4291 filewrapper.py
+-a----        18/12/2025     16:32           4881 heuristics.py
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32           5163 serialize.py
+-a----        18/12/2025     16:32           1417 wrapper.py
+-a----        18/12/2025     16:32           1737 _cmd.py
+-a----        18/12/2025     16:32            677 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32           4117 file_cache.py
+-a----        18/12/2025     16:32           1386 redis_cache.py
+-a----        18/12/2025     16:32            303 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\cachecontrol\caches\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35           9011 file_cache.cpython-314.pyc
+-a----        18/12/2025     16:35           3661 redis_cache.cpython-314.pyc
+-a----        18/12/2025     16:35            433 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\cachecontrol\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35           7547 adapter.cpython-314.pyc
+-a----        18/12/2025     16:35           5384 cache.cpython-314.pyc
+-a----        18/12/2025     16:35          18784 controller.cpython-314.pyc
+-a----        18/12/2025     16:35           5296 filewrapper.cpython-314.pyc
+-a----        18/12/2025     16:35           6131 serialize.cpython-314.pyc
+-a----        18/12/2025     16:35           1800 wrapper.cpython-314.pyc
+-a----        18/12/2025     16:35            890 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\certifi
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32         297255 cacert.pem
+-a----        18/12/2025     16:32           4486 core.py
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32             94 __init__.py
+-a----        18/12/2025     16:32            255 __main__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\certifi\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           4337 core.cpython-314.pyc
+-a----        18/12/2025     16:34            316 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\dependency_groups
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32           8041 _implementation.py
+-a----        18/12/2025     16:32           1710 _lint_dependency_groups.py
+-a----        18/12/2025     16:32           1865 _pip_wrapper.py
+-a----        18/12/2025     16:32            285 _toml_compat.py
+-a----        18/12/2025     16:32            250 __init__.py
+-a----        18/12/2025     16:32           1709 __main__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\distlib
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32          41467 compat.py
+-a----        18/12/2025     16:32          51160 database.py
+-a----        18/12/2025     16:32          20797 index.py
+-a----        18/12/2025     16:32          51026 locators.py
+-a----        18/12/2025     16:32          14168 manifest.py
+-a----        18/12/2025     16:32           5164 markers.py
+-a----        18/12/2025     16:32          38724 metadata.py
+-a----        18/12/2025     16:32          10820 resources.py
+-a----        18/12/2025     16:32          18608 scripts.py
+-a----        18/12/2025     16:32          97792 t32.exe
+-a----        18/12/2025     16:32         182784 t64-arm.exe
+-a----        18/12/2025     16:32         108032 t64.exe
+-a----        18/12/2025     16:32          66682 util.py
+-a----        18/12/2025     16:32          23727 version.py
+-a----        18/12/2025     16:32          91648 w32.exe
+-a----        18/12/2025     16:32         168448 w64-arm.exe
+-a----        18/12/2025     16:32         101888 w64.exe
+-a----        18/12/2025     16:32          43979 wheel.py
+-a----        18/12/2025     16:32            625 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\distlib\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35          47084 compat.cpython-314.pyc
+-a----        18/12/2025     16:35          18001 resources.cpython-314.pyc
+-a----        18/12/2025     16:35          20809 scripts.cpython-314.pyc
+-a----        18/12/2025     16:35          92721 util.cpython-314.pyc
+-a----        18/12/2025     16:35           1405 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\distro
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32          49430 distro.py
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32            981 __init__.py
+-a----        18/12/2025     16:32             64 __main__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\idna
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32           3422 codec.py
+-a----        18/12/2025     16:32            316 compat.py
+-a----        18/12/2025     16:32          13239 core.py
+-a----        18/12/2025     16:32          78306 idnadata.py
+-a----        18/12/2025     16:32           1898 intranges.py
+-a----        18/12/2025     16:32             21 package_data.py
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32         239289 uts46data.py
+-a----        18/12/2025     16:32            868 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\idna\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          20353 core.cpython-314.pyc
+-a----        18/12/2025     16:34          99478 idnadata.cpython-314.pyc
+-a----        18/12/2025     16:34           3411 intranges.cpython-314.pyc
+-a----        18/12/2025     16:34            215 package_data.cpython-314.pyc
+-a----        18/12/2025     16:34            884 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\msgpack
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32           1081 exceptions.py
+-a----        18/12/2025     16:32           5726 ext.py
+-a----        18/12/2025     16:32          32390 fallback.py
+-a----        18/12/2025     16:32           1109 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\msgpack\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35           2197 exceptions.cpython-314.pyc
+-a----        18/12/2025     16:35           8285 ext.cpython-314.pyc
+-a----        18/12/2025     16:35          42832 fallback.cpython-314.pyc
+-a----        18/12/2025     16:35           1714 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\packaging
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                licenses
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32          12049 markers.py
+-a----        18/12/2025     16:32          34739 metadata.py
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32           2947 requirements.py
+-a----        18/12/2025     16:32          40079 specifiers.py
+-a----        18/12/2025     16:32          22745 tags.py
+-a----        18/12/2025     16:32           5050 utils.py
+-a----        18/12/2025     16:32          16688 version.py
+-a----        18/12/2025     16:32           3286 _elffile.py
+-a----        18/12/2025     16:32           9596 _manylinux.py
+-a----        18/12/2025     16:32           2694 _musllinux.py
+-a----        18/12/2025     16:32          10221 _parser.py
+-a----        18/12/2025     16:32           1431 _structures.py
+-a----        18/12/2025     16:32           5310 _tokenizer.py
+-a----        18/12/2025     16:32            494 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\packaging\licenses
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32          48398 _spdx.py
+-a----        18/12/2025     16:32           5727 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\packaging\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          15327 markers.cpython-314.pyc
+-a----        18/12/2025     16:34           5552 requirements.cpython-314.pyc
+-a----        18/12/2025     16:34          44817 specifiers.cpython-314.pyc
+-a----        18/12/2025     16:34          29621 tags.cpython-314.pyc
+-a----        18/12/2025     16:34           7654 utils.cpython-314.pyc
+-a----        18/12/2025     16:34          24254 version.cpython-314.pyc
+-a----        18/12/2025     16:34           5697 _elffile.cpython-314.pyc
+-a----        18/12/2025     16:34          11951 _manylinux.cpython-314.pyc
+-a----        18/12/2025     16:34           5139 _musllinux.cpython-314.pyc
+-a----        18/12/2025     16:34          17673 _parser.cpython-314.pyc
+-a----        18/12/2025     16:34           5429 _structures.cpython-314.pyc
+-a----        18/12/2025     16:34           9487 _tokenizer.cpython-314.pyc
+-a----        18/12/2025     16:34            556 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pkg_resources
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32         124463 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\platformdirs
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32           9013 android.py
+-a----        18/12/2025     16:32           9277 api.py
+-a----        18/12/2025     16:32           6154 macos.py
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32          10458 unix.py
+-a----        18/12/2025     16:32            511 version.py
+-a----        18/12/2025     16:32          10125 windows.py
+-a----        18/12/2025     16:32          22344 __init__.py
+-a----        18/12/2025     16:32           1505 __main__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\platformdirs\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          18883 api.cpython-314.pyc
+-a----        18/12/2025     16:34           1067 version.cpython-314.pyc
+-a----        18/12/2025     16:34          16871 windows.cpython-314.pyc
+-a----        18/12/2025     16:34          22983 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pygments
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                filters
+d-----        18/12/2025     16:44                formatters
+d-----        18/12/2025     16:44                lexers
+d-----        18/12/2025     16:44                styles
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32           1718 console.py
+-a----        18/12/2025     16:32           1910 filter.py
+-a----        18/12/2025     16:32           4390 formatter.py
+-a----        18/12/2025     16:32          35349 lexer.py
+-a----        18/12/2025     16:32           1005 modeline.py
+-a----        18/12/2025     16:32           1891 plugin.py
+-a----        18/12/2025     16:32           3072 regexopt.py
+-a----        18/12/2025     16:32           3092 scanner.py
+-a----        18/12/2025     16:32           7981 sphinxext.py
+-a----        18/12/2025     16:32           6420 style.py
+-a----        18/12/2025     16:32           6226 token.py
+-a----        18/12/2025     16:32          63208 unistring.py
+-a----        18/12/2025     16:32          10031 util.py
+-a----        18/12/2025     16:32           2983 __init__.py
+-a----        18/12/2025     16:32            353 __main__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pygments\filters
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32          40392 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pygments\filters\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          38477 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pygments\formatters
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32           4176 _mapping.py
+-a----        18/12/2025     16:32           5385 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pygments\lexers
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32          53853 python.py
+-a----        18/12/2025     16:32          77602 _mapping.py
+-a----        18/12/2025     16:32          12115 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pygments\lexers\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          69850 _mapping.cpython-314.pyc
+-a----        18/12/2025     16:34          15232 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pygments\styles
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32           3312 _mapping.py
+-a----        18/12/2025     16:32           2042 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pygments\styles\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           3718 _mapping.cpython-314.pyc
+-a----        18/12/2025     16:34           2749 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pygments\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           3306 filter.cpython-314.pyc
+-a----        18/12/2025     16:34          39658 lexer.cpython-314.pyc
+-a----        18/12/2025     16:34           1601 modeline.cpython-314.pyc
+-a----        18/12/2025     16:34           2556 plugin.cpython-314.pyc
+-a----        18/12/2025     16:34           4367 regexopt.cpython-314.pyc
+-a----        18/12/2025     16:34           7288 style.cpython-314.pyc
+-a----        18/12/2025     16:34           8338 token.cpython-314.pyc
+-a----        18/12/2025     16:34          14531 util.cpython-314.pyc
+-a----        18/12/2025     16:34           3456 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                _in_process
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32          14936 _impl.py
+-a----        18/12/2025     16:32            691 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32          12216 _in_process.py
+-a----        18/12/2025     16:32            557 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\.venv\Lib\site
+    -packages\pip\_vendor\pyproject_hooks\_in_process\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           1081 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          21701 _impl.cpython-314.pyc
+-a----        18/12/2025     16:34            758 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\requests
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32          27607 adapters.py
+-a----        18/12/2025     16:32           6449 api.py
+-a----        18/12/2025     16:32          10186 auth.py
+-a----        18/12/2025     16:32            441 certs.py
+-a----        18/12/2025     16:32           1485 compat.py
+-a----        18/12/2025     16:32          18590 cookies.py
+-a----        18/12/2025     16:32           4272 exceptions.py
+-a----        18/12/2025     16:32           3813 help.py
+-a----        18/12/2025     16:32            733 hooks.py
+-a----        18/12/2025     16:32          35483 models.py
+-a----        18/12/2025     16:32           1057 packages.py
+-a----        18/12/2025     16:32          30495 sessions.py
+-a----        18/12/2025     16:32           4322 status_codes.py
+-a----        18/12/2025     16:32           2912 structures.py
+-a----        18/12/2025     16:32          33631 utils.py
+-a----        18/12/2025     16:32           1495 _internal_utils.py
+-a----        18/12/2025     16:32           5057 __init__.py
+-a----        18/12/2025     16:32            435 __version__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\requests\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          27995 adapters.cpython-314.pyc
+-a----        18/12/2025     16:34           6908 api.cpython-314.pyc
+-a----        18/12/2025     16:34          14520 auth.cpython-314.pyc
+-a----        18/12/2025     16:34            678 certs.cpython-314.pyc
+-a----        18/12/2025     16:34           1677 compat.cpython-314.pyc
+-a----        18/12/2025     16:34          25462 cookies.cpython-314.pyc
+-a----        18/12/2025     16:34           8022 exceptions.cpython-314.pyc
+-a----        18/12/2025     16:34           1101 hooks.cpython-314.pyc
+-a----        18/12/2025     16:34          36451 models.cpython-314.pyc
+-a----        18/12/2025     16:34           1360 packages.cpython-314.pyc
+-a----        18/12/2025     16:34          27736 sessions.cpython-314.pyc
+-a----        18/12/2025     16:34           6013 status_codes.cpython-314.pyc
+-a----        18/12/2025     16:34           5734 structures.cpython-314.pyc
+-a----        18/12/2025     16:34          37292 utils.cpython-314.pyc
+-a----        18/12/2025     16:34           2017 _internal_utils.cpython-314.p
+                                                  yc
+-a----        18/12/2025     16:34           5330 __init__.cpython-314.pyc
+-a----        18/12/2025     16:34            583 __version__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\resolvelib
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                resolvers
+-a----        18/12/2025     16:32           8914 providers.py
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32           2038 reporters.py
+-a----        18/12/2025     16:32           6420 structs.py
+-a----        18/12/2025     16:32            541 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32           1558 abstract.py
+-a----        18/12/2025     16:32           1768 criterion.py
+-a----        18/12/2025     16:32           1768 exceptions.py
+-a----        18/12/2025     16:32          20671 resolution.py
+-a----        18/12/2025     16:32            640 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\rich
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32            890 abc.py
+-a----        18/12/2025     16:32          10469 align.py
+-a----        18/12/2025     16:32           6921 ansi.py
+-a----        18/12/2025     16:32           3263 bar.py
+-a----        18/12/2025     16:32          10831 box.py
+-a----        18/12/2025     16:32           5130 cells.py
+-a----        18/12/2025     16:32          18211 color.py
+-a----        18/12/2025     16:32           1054 color_triplet.py
+-a----        18/12/2025     16:32           7131 columns.py
+-a----        18/12/2025     16:32         100565 console.py
+-a----        18/12/2025     16:32           1288 constrain.py
+-a----        18/12/2025     16:32           5502 containers.py
+-a----        18/12/2025     16:32           6630 control.py
+-a----        18/12/2025     16:32           8257 default_styles.py
+-a----        18/12/2025     16:32            998 diagnose.py
+-a----        18/12/2025     16:32           2501 emoji.py
+-a----        18/12/2025     16:32            642 errors.py
+-a----        18/12/2025     16:32           2484 filesize.py
+-a----        18/12/2025     16:32           1683 file_proxy.py
+-a----        18/12/2025     16:32           9586 highlighter.py
+-a----        18/12/2025     16:32           5031 json.py
+-a----        18/12/2025     16:32           3252 jupyter.py
+-a----        18/12/2025     16:32          14004 layout.py
+-a----        18/12/2025     16:32          14270 live.py
+-a----        18/12/2025     16:32           3666 live_render.py
+-a----        18/12/2025     16:32          12458 logging.py
+-a----        18/12/2025     16:32           8451 markup.py
+-a----        18/12/2025     16:32           5305 measure.py
+-a----        18/12/2025     16:32           4908 padding.py
+-a----        18/12/2025     16:32            828 pager.py
+-a----        18/12/2025     16:32           3396 palette.py
+-a----        18/12/2025     16:32          11225 panel.py
+-a----        18/12/2025     16:32          36391 pretty.py
+-a----        18/12/2025     16:32          60357 progress.py
+-a----        18/12/2025     16:32           8162 progress_bar.py
+-a----        18/12/2025     16:32          12447 prompt.py
+-a----        18/12/2025     16:32           1391 protocol.py
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32            166 region.py
+-a----        18/12/2025     16:32           4431 repr.py
+-a----        18/12/2025     16:32           4602 rule.py
+-a----        18/12/2025     16:32           2843 scope.py
+-a----        18/12/2025     16:32           1591 screen.py
+-a----        18/12/2025     16:32          24743 segment.py
+-a----        18/12/2025     16:32           4364 spinner.py
+-a----        18/12/2025     16:32           4424 status.py
+-a----        18/12/2025     16:32          27059 style.py
+-a----        18/12/2025     16:32           1258 styled.py
+-a----        18/12/2025     16:32          35763 syntax.py
+-a----        18/12/2025     16:32          40049 table.py
+-a----        18/12/2025     16:32           3370 terminal_theme.py
+-a----        18/12/2025     16:32          47552 text.py
+-a----        18/12/2025     16:32           3771 theme.py
+-a----        18/12/2025     16:32            102 themes.py
+-a----        18/12/2025     16:32          35170 traceback.py
+-a----        18/12/2025     16:32           9451 tree.py
+-a----        18/12/2025     16:32          10209 _cell_widths.py
+-a----        18/12/2025     16:32         140235 _emoji_codes.py
+-a----        18/12/2025     16:32           1064 _emoji_replace.py
+-a----        18/12/2025     16:32           2128 _export_format.py
+-a----        18/12/2025     16:32            265 _extension.py
+-a----        18/12/2025     16:32            799 _fileno.py
+-a----        18/12/2025     16:32           9655 _inspect.py
+-a----        18/12/2025     16:32           3225 _log_render.py
+-a----        18/12/2025     16:32           1236 _loop.py
+-a----        18/12/2025     16:32           1394 _null_file.py
+-a----        18/12/2025     16:32           7063 _palettes.py
+-a----        18/12/2025     16:32            423 _pick.py
+-a----        18/12/2025     16:32           5471 _ratio.py
+-a----        18/12/2025     16:32          19919 _spinners.py
+-a----        18/12/2025     16:32            351 _stack.py
+-a----        18/12/2025     16:32            417 _timer.py
+-a----        18/12/2025     16:32          22755 _win32_console.py
+-a----        18/12/2025     16:32           1925 _windows.py
+-a----        18/12/2025     16:32           2783 _windows_renderer.py
+-a----        18/12/2025     16:32           3404 _wrap.py
+-a----        18/12/2025     16:32           6090 __init__.py
+-a----        18/12/2025     16:32           8477 __main__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\rich\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           1907 abc.cpython-314.pyc
+-a----        18/12/2025     16:34          15089 align.cpython-314.pyc
+-a----        18/12/2025     16:35          10222 ansi.cpython-314.pyc
+-a----        18/12/2025     16:34          14513 box.cpython-314.pyc
+-a----        18/12/2025     16:34           6442 cells.cpython-314.pyc
+-a----        18/12/2025     16:34          28675 color.cpython-314.pyc
+-a----        18/12/2025     16:34           2375 color_triplet.cpython-314.pyc
+-a----        18/12/2025     16:34           9816 columns.cpython-314.pyc
+-a----        18/12/2025     16:34         137701 console.cpython-314.pyc
+-a----        18/12/2025     16:34           2813 constrain.cpython-314.pyc
+-a----        18/12/2025     16:34          12180 containers.cpython-314.pyc
+-a----        18/12/2025     16:34          13704 control.cpython-314.pyc
+-a----        18/12/2025     16:34          10899 default_styles.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:34           5099 emoji.cpython-314.pyc
+-a----        18/12/2025     16:34           2019 errors.cpython-314.pyc
+-a----        18/12/2025     16:35           3711 filesize.cpython-314.pyc
+-a----        18/12/2025     16:35           4678 file_proxy.cpython-314.pyc
+-a----        18/12/2025     16:34          11190 highlighter.cpython-314.pyc
+-a----        18/12/2025     16:34           6636 jupyter.cpython-314.pyc
+-a----        18/12/2025     16:35          23113 live.cpython-314.pyc
+-a----        18/12/2025     16:35           5695 live_render.cpython-314.pyc
+-a----        18/12/2025     16:34          15635 logging.cpython-314.pyc
+-a----        18/12/2025     16:34          11315 markup.cpython-314.pyc
+-a----        18/12/2025     16:34           7450 measure.cpython-314.pyc
+-a----        18/12/2025     16:34           8148 padding.cpython-314.pyc
+-a----        18/12/2025     16:34           2436 pager.cpython-314.pyc
+-a----        18/12/2025     16:34           6590 palette.cpython-314.pyc
+-a----        18/12/2025     16:34          14531 panel.cpython-314.pyc
+-a----        18/12/2025     16:34          49541 pretty.cpython-314.pyc
+-a----        18/12/2025     16:35          95123 progress.cpython-314.pyc
+-a----        18/12/2025     16:35          12185 progress_bar.cpython-314.pyc
+-a----        18/12/2025     16:34           2069 protocol.cpython-314.pyc
+-a----        18/12/2025     16:34            863 region.cpython-314.pyc
+-a----        18/12/2025     16:34           8867 repr.cpython-314.pyc
+-a----        18/12/2025     16:34           4420 scope.cpython-314.pyc
+-a----        18/12/2025     16:34           3107 screen.cpython-314.pyc
+-a----        18/12/2025     16:34          33685 segment.cpython-314.pyc
+-a----        18/12/2025     16:35           7205 spinner.cpython-314.pyc
+-a----        18/12/2025     16:34          42098 style.cpython-314.pyc
+-a----        18/12/2025     16:34           2703 styled.cpython-314.pyc
+-a----        18/12/2025     16:34          46831 syntax.cpython-314.pyc
+-a----        18/12/2025     16:34          51558 table.cpython-314.pyc
+-a----        18/12/2025     16:34           3674 terminal_theme.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:34          73061 text.cpython-314.pyc
+-a----        18/12/2025     16:34           7790 theme.cpython-314.pyc
+-a----        18/12/2025     16:34            313 themes.cpython-314.pyc
+-a----        18/12/2025     16:34          42325 traceback.cpython-314.pyc
+-a----        18/12/2025     16:34          15846 _cell_widths.cpython-314.pyc
+-a----        18/12/2025     16:34         205993 _emoji_codes.cpython-314.pyc
+-a----        18/12/2025     16:34           2129 _emoji_replace.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:34           2348 _export_format.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:34            679 _extension.cpython-314.pyc
+-a----        18/12/2025     16:34            998 _fileno.cpython-314.pyc
+-a----        18/12/2025     16:34           4884 _log_render.cpython-314.pyc
+-a----        18/12/2025     16:34           2522 _loop.cpython-314.pyc
+-a----        18/12/2025     16:34           6617 _null_file.cpython-314.pyc
+-a----        18/12/2025     16:34           9391 _palettes.cpython-314.pyc
+-a----        18/12/2025     16:34            886 _pick.cpython-314.pyc
+-a----        18/12/2025     16:34           7792 _ratio.cpython-314.pyc
+-a----        18/12/2025     16:35          15714 _spinners.cpython-314.pyc
+-a----        18/12/2025     16:34          33527 _win32_console.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:34           3089 _windows.cpython-314.pyc
+-a----        18/12/2025     16:34           3878 _windows_renderer.cpython-314
+                                                  .pyc
+-a----        18/12/2025     16:34           3659 _wrap.cpython-314.pyc
+-a----        18/12/2025     16:34           8391 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\tomli
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32             26 py.typed
+-a----        18/12/2025     16:32          25591 _parser.py
+-a----        18/12/2025     16:32           3171 _re.py
+-a----        18/12/2025     16:32            254 _types.py
+-a----        18/12/2025     16:32            314 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\tomli_w
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32             26 py.typed
+-a----        18/12/2025     16:32           6961 _writer.py
+-a----        18/12/2025     16:32            169 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\truststore
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32              0 py.typed
+-a----        18/12/2025     16:32          11246 _api.py
+-a----        18/12/2025     16:32          20503 _macos.py
+-a----        18/12/2025     16:32           2324 _openssl.py
+-a----        18/12/2025     16:32           1130 _ssl_constants.py
+-a----        18/12/2025     16:32          17993 _windows.py
+-a----        18/12/2025     16:32           1320 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\truststore\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:35          24149 _api.cpython-314.pyc
+-a----        18/12/2025     16:35           1533 _ssl_constants.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:35          17406 _windows.cpython-314.pyc
+-a----        18/12/2025     16:35           1458 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\urllib3
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                contrib
+d-----        18/12/2025     16:44                packages
+d-----        18/12/2025     16:44                util
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32          20314 connection.py
+-a----        18/12/2025     16:32          40408 connectionpool.py
+-a----        18/12/2025     16:32           8217 exceptions.py
+-a----        18/12/2025     16:32           8579 fields.py
+-a----        18/12/2025     16:32           2440 filepost.py
+-a----        18/12/2025     16:32          19990 poolmanager.py
+-a----        18/12/2025     16:32           6691 request.py
+-a----        18/12/2025     16:32          30641 response.py
+-a----        18/12/2025     16:32          11372 _collections.py
+-a----        18/12/2025     16:32             64 _version.py
+-a----        18/12/2025     16:32           3333 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                _securetransport
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32          11036 appengine.py
+-a----        18/12/2025     16:32           4528 ntlmpool.py
+-a----        18/12/2025     16:32          17081 pyopenssl.py
+-a----        18/12/2025     16:32          34446 securetransport.py
+-a----        18/12/2025     16:32           7097 socks.py
+-a----        18/12/2025     16:32            957 _appengine_environ.py
+-a----        18/12/2025     16:32              0 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\.venv\Lib\site
+    -packages\pip\_vendor\urllib3\contrib\_securetransport
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32          17632 bindings.py
+-a----        18/12/2025     16:32          13922 low_level.py
+-a----        18/12/2025     16:32              0 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\urllib3\contrib\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           7949 socks.cpython-314.pyc
+-a----        18/12/2025     16:34           1902 _appengine_environ.cpython-31
+                                                  4.pyc
+-a----        18/12/2025     16:34            197 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\urllib3\packages
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                backports
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32          34665 six.py
+-a----        18/12/2025     16:32              0 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32           1417 makefile.py
+-a----        18/12/2025     16:32           5343 weakref_finalize.py
+-a----        18/12/2025     16:32              0 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\urllib3\packages\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          42857 six.cpython-314.pyc
+-a----        18/12/2025     16:34            198 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\urllib3\util
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                __pycache__
+-a----        18/12/2025     16:32           4901 connection.py
+-a----        18/12/2025     16:32           1605 proxy.py
+-a----        18/12/2025     16:32            498 queue.py
+-a----        18/12/2025     16:32           3997 request.py
+-a----        18/12/2025     16:32           3510 response.py
+-a----        18/12/2025     16:32          22050 retry.py
+-a----        18/12/2025     16:32           6895 ssltransport.py
+-a----        18/12/2025     16:32          17460 ssl_.py
+-a----        18/12/2025     16:32           5758 ssl_match_hostname.py
+-a----        18/12/2025     16:32          10168 timeout.py
+-a----        18/12/2025     16:32          14296 url.py
+-a----        18/12/2025     16:32           5403 wait.py
+-a----        18/12/2025     16:32           1155 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\urllib3\util\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34           4829 connection.cpython-314.pyc
+-a----        18/12/2025     16:34           1593 proxy.cpython-314.pyc
+-a----        18/12/2025     16:34           1473 queue.cpython-314.pyc
+-a----        18/12/2025     16:34           4162 request.cpython-314.pyc
+-a----        18/12/2025     16:34           3064 response.cpython-314.pyc
+-a----        18/12/2025     16:34          21875 retry.cpython-314.pyc
+-a----        18/12/2025     16:34          11103 ssltransport.cpython-314.pyc
+-a----        18/12/2025     16:34          15754 ssl_.cpython-314.pyc
+-a----        18/12/2025     16:34           5314 ssl_match_hostname.cpython-31
+                                                  4.pyc
+-a----        18/12/2025     16:34          10781 timeout.cpython-314.pyc
+-a----        18/12/2025     16:34          16662 url.cpython-314.pyc
+-a----        18/12/2025     16:34           4670 wait.cpython-314.pyc
+-a----        18/12/2025     16:34           1140 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\urllib3\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34          21120 connection.cpython-314.pyc
+-a----        18/12/2025     16:34          36876 connectionpool.cpython-314.py
+                                                  c
+-a----        18/12/2025     16:34          14385 exceptions.cpython-314.pyc
+-a----        18/12/2025     16:34          10395 fields.cpython-314.pyc
+-a----        18/12/2025     16:34           4031 filepost.cpython-314.pyc
+-a----        18/12/2025     16:34          20350 poolmanager.cpython-314.pyc
+-a----        18/12/2025     16:34           7079 request.cpython-314.pyc
+-a----        18/12/2025     16:34          34978 response.cpython-314.pyc
+-a----        18/12/2025     16:34          16924 _collections.cpython-314.pyc
+-a----        18/12/2025     16:34            217 _version.cpython-314.pyc
+-a----        18/12/2025     16:34           3371 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\_vendor\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34         190436 typing_extensions.cpython-314
+                                                  .pyc
+-a----        18/12/2025     16:34           4634 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:34            865 __init__.cpython-314.pyc
+-a----        18/12/2025     16:34            858 __main__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip-25.1.1.dist-info
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                licenses
+-a----        18/12/2025     16:32             87 entry_points.txt
+-a----        18/12/2025     16:32              5 INSTALLER
+-a----        18/12/2025     16:32           3649 METADATA
+-a----        18/12/2025     16:32          62069 RECORD
+-a----        18/12/2025     16:32              4 top_level.txt
+-a----        18/12/2025     16:32             91 WHEEL
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\pip-25.1.1.dist-info\licenses
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32          11223 AUTHORS.txt
+-a----        18/12/2025     16:32           1093 LICENSE.txt
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\.venv\Lib\site-packages\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32           4296 _virtualenv.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\.venv\Scripts
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     16:32           2260 activate
+-a----        18/12/2025     16:32           1459 activate.bat
+-a----        18/12/2025     16:32           3079 activate.fish
+-a----        18/12/2025     16:32           2776 activate.nu
+-a----        18/12/2025     16:32           1667 activate.ps1
+-a----        18/12/2025     16:32           1282 activate_this.py
+-a----        18/12/2025     16:32            537 deactivate.bat
+-a----        18/12/2025     16:31        5229424 libcrypto-3.dll
+-a----        18/12/2025     16:31          39696 libffi-8.dll
+-a----        18/12/2025     16:31         794992 libssl-3.dll
+-a----        18/12/2025     16:32         108416 pip-3.14.exe
+-a----        18/12/2025     16:32         108416 pip.exe
+-a----        18/12/2025     16:32         108416 pip3.14.exe
+-a----        18/12/2025     16:32         108416 pip3.exe
+-a----        18/12/2025     16:32             24 pydoc.bat
+-a----        18/12/2025     16:31         216920 pyexpat.pyd
+-a----        18/12/2025     16:31         106328 python.exe
+-a----        18/12/2025     16:31          74064 python3.dll
+-a----        18/12/2025     16:31        6760280 python314.dll
+-a----        18/12/2025     16:31         104792 pythonw.exe
+-a----        18/12/2025     16:31          33624 select.pyd
+-a----        18/12/2025     16:31        1584984 sqlite3.dll
+-a----        18/12/2025     16:31        1839896 tcl86t.dll
+-a----        18/12/2025     16:31        1589528 tk86t.dll
+-a----        18/12/2025     16:31         758104 unicodedata.pyd
+-a----        18/12/2025     16:31         120400 vcruntime140.dll
+-a----        18/12/2025     16:31          49776 vcruntime140_1.dll
+-a----        18/12/2025     16:31          33112 winsound.pyd
+-a----        18/12/2025     16:31         146208 zlib1.dll
+-a----        18/12/2025     16:31          78672 _asyncio.pyd
+-a----        18/12/2025     16:31          87896 _bz2.pyd
+-a----        18/12/2025     16:31         141656 _ctypes.pyd
+-a----        18/12/2025     16:31         133464 _ctypes_test.pyd
+-a----        18/12/2025     16:31         287576 _decimal.pyd
+-a----        18/12/2025     16:31         138584 _elementtree.pyd
+-a----        18/12/2025     16:31          69464 _hashlib.pyd
+-a----        18/12/2025     16:31         161112 _lzma.pyd
+-a----        18/12/2025     16:31          38744 _multiprocessing.pyd
+-a----        18/12/2025     16:31          58200 _overlapped.pyd
+-a----        18/12/2025     16:31          36696 _queue.pyd
+-a----        18/12/2025     16:31          75608 _remote_debugging.pyd
+-a----        18/12/2025     16:31          87384 _socket.pyd
+-a----        18/12/2025     16:31         132440 _sqlite3.pyd
+-a----        18/12/2025     16:31         183640 _ssl.pyd
+-a----        18/12/2025     16:31          58712 _testbuffer.pyd
+-a----        18/12/2025     16:31         301400 _testcapi.pyd
+-a----        18/12/2025     16:31         110936 _testclinic.pyd
+-a----        18/12/2025     16:31          30040 _testclinic_limited.pyd
+-a----        18/12/2025     16:31          29528 _testconsole.pyd
+-a----        18/12/2025     16:31          27992 _testimportmultiple.pyd
+-a----        18/12/2025     16:31          93528 _testinternalcapi.pyd
+-a----        18/12/2025     16:31         153432 _testlimitedcapi.pyd
+-a----        18/12/2025     16:31          42840 _testmultiphase.pyd
+-a----        18/12/2025     16:31          34648 _testsinglephase.pyd
+-a----        18/12/2025     16:31          69464 _tkinter.pyd
+-a----        18/12/2025     16:31          28504 _uuid.pyd
+-a----        18/12/2025     16:31          40280 _wmi.pyd
+-a----        18/12/2025     16:31          51032 _zoneinfo.pyd
+-a----        18/12/2025     16:31         503640 _zstd.pyd
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\app
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     16:44                api
+d-----        18/12/2025     17:34                core
+d-----        18/12/2025     17:09                db
+d-----        18/12/2025     17:34                models
+d-----        18/12/2025     17:11                schemas
+d-----        18/12/2025     17:47                services
+d-----        18/12/2025     17:11                __pycache__
+-a----        18/12/2025     16:41            391 main.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\app\api
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     17:11                v1
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\app\api\v1
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     17:11                endpoints
+d-----        18/12/2025     17:11                __pycache__
+-a----        18/12/2025     16:41            173 __init__.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\app\api\v1\endpoints
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     17:11                __pycache__
+-a----        18/12/2025     17:11           1212 leads.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\app\api\v1\endpoints\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     17:11           2875 leads.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\app\api\v1\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     17:11            441 __init__.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\app\core
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     17:35                __pycache__
+-a----        18/12/2025     17:34            751 config.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\app\core\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     17:35           1630 config.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\app\db
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     17:10                __pycache__
+-a----        18/12/2025     17:09            755 session.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\app\db\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     17:10           1010 session.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\app\models
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     17:10                __pycache__
+-a----        18/12/2025     17:34           1860 models.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\app\models\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     17:10           3005 models.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\app\schemas
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     17:11                __pycache__
+-a----        18/12/2025     17:11            830 schemas.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\app\schemas\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     17:11           3439 schemas.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet Brains)\app\services
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        18/12/2025     17:43                __pycache__
+-a----        18/12/2025     17:47           5620 collector.py
+-a----        18/12/2025     16:41            930 composer.py
+-a----        18/12/2025     17:47           9955 engine.py
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\app\services\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     17:12           6051 collector.cpython-314.pyc
+-a----        18/12/2025     17:43          11824 engine.cpython-314.pyc
+    Diretório: C:\Projetos\Projeto Agente Comercial (Jet
+    Brains)\app\__pycache__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        18/12/2025     17:11            837 main.cpython-314.pyc
