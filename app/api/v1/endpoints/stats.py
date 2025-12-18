@@ -29,20 +29,21 @@ def get_stats(db: Session = Depends(get_db)):
                 vip_leads += 1
             
             # Calcular revenue estimado baseado no score
-            total_revenue += score * 1000  # R$ 1000 por ponto de score
+            total_revenue += float(score) * 1000  # R$ 1000 por ponto de score
         
-        return JSONResponse(content={
+        return {
             "total_leads": total_leads,
             "vip_leads": vip_leads,
             "potential_revenue": total_revenue,
             "region_coverage": "Grande São Paulo",
             "last_update": datetime.now().isoformat()
-        })
+        }
     except Exception as e:
-        return JSONResponse(content={
+        print(f"Erro no stats endpoint: {e}")
+        return {
             "total_leads": 0,
             "vip_leads": 0,
             "potential_revenue": 0,
             "region_coverage": "N/A",
             "last_update": datetime.now().isoformat()
-        }, status_code=200)
+        }
